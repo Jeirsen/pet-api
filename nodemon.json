@@ -1,0 +1,6 @@
+{
+    "env":{
+        "MONGO_ATLAS_PW": "apishooppw",
+        "JWT_KEY": "nodeapirest"
+    }
+}
